@@ -1,0 +1,18 @@
+c:\users\muhammad orabi\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.exe.config
+c:\users\muhammad orabi\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.exe
+c:\users\muhammad orabi\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.pdb
+c:\users\muhammad orabi\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+c:\users\muhammad orabi\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.Form1.resources
+c:\users\muhammad orabi\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+c:\users\muhammad orabi\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.csproj.GenerateResource.Cache
+c:\users\muhammad orabi\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.exe
+c:\users\muhammad orabi\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.pdb
+E:\Others\projects\Encryption\Encryption\bin\Debug\Encryption.exe.config
+E:\Others\projects\Encryption\Encryption\obj\Debug\Encryption.exe
+E:\Others\projects\Encryption\Encryption\obj\Debug\Encryption.pdb
+E:\Others\projects\Encryption\Encryption\bin\Debug\Encryption.exe
+E:\Others\projects\Encryption\Encryption\bin\Debug\Encryption.pdb
+E:\Others\projects\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+E:\Others\projects\Encryption\Encryption\obj\Debug\Encryption.Form1.resources
+E:\Others\projects\Encryption\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+E:\Others\projects\Encryption\Encryption\obj\Debug\Encryption.csproj.GenerateResource.Cache
